@@ -5,6 +5,8 @@
 * 'git init' - Initialize Git in working directory
 * 'git add .' - Stage (add to Git index) all changed files in current directory
 * 'git commit -m "message" ' - commit stage files to local repository
+* 'git log' - Show commit history
+* 'git log --oneLine' - Show commit history (compact output)
 
 
 ### Basic Branching
