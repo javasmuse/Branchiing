@@ -8,7 +8,6 @@
 * 'git log' - Show commit history
 * 'git log --oneLine' - Show commit history (compact output)
 
-
 ### Basic Branching
 * 'git branch' - Display all branches, show current
 * 'git branch branchName' - Create a new branch 'branchName'
