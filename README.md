@@ -7,6 +7,7 @@
 * 'git commit -m "message" ' - commit stage files to local repository
 * 'git log' - Show commit history
 * 'git log --oneLine' - Show commit history (compact output)
+* 'git status'  - show status of current branch
 
 ### Basic Branching
 * 'git branch' - Display all branches, show current
