@@ -8,4 +8,6 @@
 
 
 ### Basic Branching
+* 'git branch' - Display all branches, show current
 * 'git branch branchName' - Create a new branch 'branchName'
+* 'git checkout branchName' - Retrieve branch content into working directory.
